@@ -59,7 +59,8 @@ analysis skills using industry-standard tools.
 - Customer Insights
 - Competitor Conquest Analysis
 
-- ## 🔗 Live Dashboard : https://kush-ang-tata-project-streamlit-app-v5hups.streamlit.app/
+- ##  Live Dashboard : https://kush-ang-tata-project-streamlit-app-v5hups.streamlit.app/
+- ##  Video Presentation : https://drive.google.com/file/d/1J2701psDsVQbKrXD5ekr2f7DfZr9Lanm/view?usp=sharing
 
 ## 👤 Author
 **[Kushang Bhattacharya]**  
